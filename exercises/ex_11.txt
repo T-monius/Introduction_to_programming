@@ -1,0 +1,1 @@
+I tend to like devdocs.io if you want to know what a specific object type or concept is as you can navigate directly to the topic and get a concise explanation with examples. 

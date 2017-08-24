@@ -1,0 +1,1 @@
+# I solved ex_12.rb iteratively.

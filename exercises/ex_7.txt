@@ -1,0 +1,2 @@
+The main difference between an array and a hash is that an array stores a list of any object type in the order from which the array
+was created. However, a hash associates values stored with keys in no given order. 
